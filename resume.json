@@ -46,7 +46,7 @@
                 "2019.04",
                 ""
             ],
-            "work_desc": "1. 负责金融产品中心后端的开发工作",
+            "work_desc": "1. 负责金融产品中心后端的开发维护工作\n2. 参与金融部门新老定价系统的改造工作",
             "dataIndex": 0
         },
         {
@@ -74,9 +74,9 @@
     "projectList": [
         {
             "project_time": "2020.04 - 2024.12",
-            "project_name": "瓜子金融产品中心",
+            "project_name": "金融新老产品中心重构迁移",
             "project_role": "后端开发",
-            "project_desc": "负责瓜子金融客户的产品信息管理和计算，是金融部门的核心系统，对可靠性和性能有较高的要求。",
+            "project_desc": "产品负责瓜子金融客户的产品信息管理和计算，是金融部门的核心系统，对可靠性和性能有较高的要求。\n新产品中心基于Go语言特性进行重构，低内存，高并发性能，更适合k8s环境下部署",
             "project_content": "设计开发维护",
             "dataIndex": 0
         },
@@ -90,7 +90,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "🌱 多年从事金融相关业务后端开发\n1. 擅长语言 golang、Java\n2. 熟练使用并了解原理 mysql、mongodb、redis、kafka、elasticsearch\n\n做事严谨认真有耐心 ，有责任心 ；学习能力、 团队合作能力是我的两大优势"
+        "aboutme_desc": "多年从事金融相关业务后端开发\n1. 擅长语言 golang、Java\n2. 熟练使用并了解原理 mysql、mongodb、redis、kafka、elasticsearch\n常用并了解k8s技术和微服务架构\n做事严谨认真有耐心 ，有责任心 ；学习能力、 团队合作能力是我的两大优势"
     },
     "theme": {
         "color": "#2f5785",
