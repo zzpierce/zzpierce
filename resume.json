@@ -75,12 +75,20 @@
     "skillList": [],
     "projectList": [
         {
-            "project_time": "2020.04 - 2024.12",
-            "project_name": "金融新老产品中心重构迁移",
+            "project_time": "2021.04 - 2024.12",
+            "project_name": "金融新产品中心",
             "project_role": "Go后端开发",
             "project_desc": "产品中心负责瓜子金融客户的产品信息管理和计算，是金融部门的核心系统，对可靠性和性能有较高的要求。",
             "project_content": "针对Go语言特性进行重构，相比于php实现的老系统，内存占用更低，高并发性能更强，更适合k8s环境下部署",
             "dataIndex": 0
+        },
+        {
+            "project_time": "2019.04-2022.05",
+            "project_name": "金融费用系统",
+            "project_role": "项目负责人/Java开发",
+            "project_desc": "费用系统负责金融费用的收取和退款逻辑，执行收退操作并进行监控，保证用户体验，避免资损。",
+            "project_content": "负责项目从0到1的搭建，主要业务的开发。",
+            "dataIndex": 2
         },
         {
             "project_time": "2018.04 - 2019.03",
@@ -92,7 +100,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "多年从事金融相关业务后端开发\n1. 擅长语言 Go、Java\n2. 熟练使用并了解原理 mysql、mongodb、redis、kafka、elasticsearch\n常用并了解k8s技术和微服务架构\n做事严谨认真有耐心 ，有责任心 ；学习能力、 团队合作能力是我的两大优势"
+        "aboutme_desc": "多年从事金融相关业务后端开发\n1. 擅长语言 Go、Java\n2. 熟练使用并了解原理 mysql、mongodb、redis、kafka、elasticsearch\n3. 常用并了解k8s技术和微服务架构\n做事严谨认真有耐心 ，有责任心 ；学习能力、 团队合作能力是我的两大优势"
     },
     "theme": {
         "color": "#2f5785",
